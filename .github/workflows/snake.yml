@@ -6,7 +6,7 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - main                 # change to 'master' if needed
+      - master                 # change to 'master' if needed
 
 jobs:
   build:
