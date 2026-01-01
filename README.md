@@ -18,7 +18,7 @@
 ---
 
 ## ⚡ About Me
-- 🎓 **B.Tech CSE @ NIT Mizoram** (CGPA: 8.77/10)  
+- 🎓 **B.Tech CSE @ NIT Mizoram** (CGPA: 8.76/10)  
 - 🧪 **Research:** GPU memory systems (TLB → GMMU), **NVM-LLC** fairness, **ChampSim** mods  
 - 🧑‍💻 **Dev:** MERN backends, secure JWT auth, clean REST APIs, responsive UIs  
 - 🧩 **DSA:** 500+ problems across platforms  
