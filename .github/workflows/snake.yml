@@ -34,8 +34,11 @@ jobs:
             dist/github-snake-dark.svg?palette=github-dark
 
       # ---------------------------
-      # 2. Generate GitHub Metrics (FIX for broken images)
-      # ---------------------------
+            # Ensure dist directory exists
+      - name: Prepare directories
+        run: mkdir -p dist
+
+      # Generate GitHub metrics
       - name: Generate GitHub metrics
         uses: lowlighter/metrics@latest
         with:
@@ -48,6 +51,7 @@ jobs:
           plugin_languages_details: bytes-size, percentage
           plugin_activity: yes
           filename: dist/metrics.svg
+
 
       # ---------------------------
       # 3. Publish assets to output branch
