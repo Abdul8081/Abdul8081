@@ -47,8 +47,8 @@ Hands-on experience across **industry internships and IIT research labs**.
 
 ### Databases
 - **MongoDB**
-- - **MySQL**
-- -**IndexedDB**
+- **MySQL**
+- **IndexedDB**
 - **PostgreSQL**
 
 ### Systems & Research
