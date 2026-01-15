@@ -137,12 +137,12 @@ Location-based weather lookup
 
 ---
 
-## 📈 GitHub Activity
 
-## 📈 GitHub Activity
-<p align="center">
+
+<!-- <p align="center">
+thi will come in ### Github Directory, make suer to update this
   <img src="https://raw.githubusercontent.com/Abdul8081/Abdul8081/output/metrics.svg" width="100%" />
-</p>
+</p> -->
 
 
 ---
