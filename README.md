@@ -127,7 +127,7 @@ Interactive dashboard with charts & analytics
 ---
 ### 🌐 Portfolio Website
 Personal portfolio showcasing projects, experience, and skills  
-🔗 **Live:** https://abdul8081.github.io/
+🔗 **Live:** [https://abdul8081.github.io/](https://portfolio-two-lilac-s0pxup697i.vercel.app/)
 
 ---
 
