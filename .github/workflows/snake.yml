@@ -1,4 +1,4 @@
-name: Generate Snake
+name: Generate Profile Assets
 
 on:
   schedule:
@@ -6,14 +6,25 @@ on:
   workflow_dispatch:
   push:
     branches:
-      - master                 # change to 'master' if needed
+      - master   # keep as-is (change only if your default branch is main)
 
 jobs:
   build:
     runs-on: ubuntu-latest
     permissions:
       contents: write
+
     steps:
+      # ---------------------------
+      # Checkout repository
+      # ---------------------------
+      - name: Checkout repository
+        uses: actions/checkout@v4
+
+      # ---------------------------
+      # 1. Generate GitHub Snake
+      # (UNCHANGED LOGIC)
+      # ---------------------------
       - name: Generate snake SVGs
         uses: Platane/snk@v3
         with:
@@ -22,6 +33,26 @@ jobs:
             dist/github-snake.svg
             dist/github-snake-dark.svg?palette=github-dark
 
+      # ---------------------------
+      # 2. Generate GitHub Metrics (FIX for broken images)
+      # ---------------------------
+      - name: Generate GitHub metrics
+        uses: lowlighter/metrics@latest
+        with:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          user: Abdul8081
+          base: header, activity, repositories
+          plugin_languages: yes
+          plugin_languages_limit: 8
+          plugin_languages_sections: most-used
+          plugin_languages_details: bytes-size, percentage
+          plugin_activity: yes
+          filename: dist/metrics.svg
+
+      # ---------------------------
+      # 3. Publish assets to output branch
+      # (UNCHANGED PUBLISH MECHANISM)
+      # ---------------------------
       - name: Publish to output branch
         uses: crazy-max/ghaction-github-pages@v4
         with:
