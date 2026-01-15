@@ -139,14 +139,11 @@ Location-based weather lookup
 
 ## 📈 GitHub Activity
 
+## 📈 GitHub Activity
 <p align="center">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=Abdul8081&show_icons=true&hide_border=true&theme=github_dark&cache_seconds=86400"/>
-  <img width="48%" src="https://streak-stats.demolab.com?user=Abdul8081&theme=github-dark&hide_border=true&cache_seconds=86400"/>
+  <img src="https://raw.githubusercontent.com/Abdul8081/Abdul8081/output/metrics.svg" width="100%" />
 </p>
 
-<p align="center">
-  <img width="60%" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Abdul8081&layout=compact&theme=github_dark&hide_border=true&cache_seconds=86400"/>
-</p>
 
 ---
 
