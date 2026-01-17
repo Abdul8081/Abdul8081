@@ -118,13 +118,6 @@ Role-based job portal with resume upload & filtering
 🔗 **Live:** https://jobportal-yt-main-3.onrender.com/
 
 ---
-
-### 📊 Dashboard App
-Interactive dashboard with charts & analytics  
-**Stack:** React  
-🔗 **Repo:** Available on my GitHub
-
----
 ### 🌐 Portfolio Website
 Personal portfolio showcasing projects, experience, and skills  
 🔗 **Live:** [https://abdul8081.github.io/](https://portfolio-two-lilac-s0pxup697i.vercel.app/)
