@@ -1,7 +1,7 @@
 <h1 align="center">Hi, I'm Abdul Muid 👋</h1>
 
 <h3 align="center">
-Software Engineer • Full-Stack & Backend • Systems Research
+Software Engineer • Full-Stack • Systems Research
 </h3>
 
 <p align="center">
