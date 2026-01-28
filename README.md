@@ -151,8 +151,8 @@ thi will come in ### Github Directory, make suer to update this
 ---
 
 ## 📬 Open to Opportunities
-- Backend / Full-Stack Roles
-- SDE-1 Positions
+- Frontend / Full-Stack Roles
+- SDE Positions
 - Systems & Performance Research
 
 📧 **amuid677@gmail.com**
