@@ -1,8 +1,23 @@
-<h1 align="center">Hi, I'm Abdul Muid 👋</h1>
+<h1 align="center">Hey, I'm Abdul Muid 👋</h1>
 
 <h3 align="center">
-Software Engineer • Full-Stack • Systems Research
+Building scalable systems • Breaking things (intentionally) • Fixing them (professionally)
 </h3>
+
+---
+
+## ⚡ Quick Intro
+
+- 👀 I enjoy debugging that *one invisible bug ruining everything*
+- 💻 Currently building **production-grade systems at Wakefit**
+- 🧠 Deep into **systems research + software engineering**
+- 🌱 Exploring **high-performance architectures & distributed systems**
+- 🤝 Open to collaborations in **Systems, Frontend, or anything challenging**
+- 📫 Reach me before the next bug reaches me
+
+---
+
+## 🌐 Connect With Me
 
 <p align="center">
   <a href="mailto:bt22cs010@nitmz.ac.in">
@@ -18,125 +33,103 @@ Software Engineer • Full-Stack • Systems Research
 
 ---
 
-## 👨‍💻 Professional Summary
-Final-year **Computer Science** student at **NIT Mizoram** with strong experience in **backend & full-stack development** and **computer architecture research**.  
-Comfortable working on **production-grade systems**, secure authentication, APIs, and performance-oriented designs.  
-Hands-on experience across **industry internships and IIT research labs**.
+## 🧠 About Me
+
+🎓 Final-year **Computer Science student @ NIT Mizoram**  
+💻 Focused on **Software Engineering + Systems Engineering**  
+🔬 Researching **cache systems, GPU memory & performance optimization**  
+🚀 I like building things that are **fast, scalable, and actually useful**
 
 ---
 
-## 🧠 Core Skills
+## 🛠 Tech Stack
 
-### Programming Languages
-- **C++** (DSA, problem solving)
-- **Java** (OOPs, backend development)
-- **Python** (backend & scripting)
-- **JavaScript** (scripting)
+💻 **Languages**  
+C++ • Java • Python • JavaScript  
 
-### Backend & Frameworks
-- **Node.js, Express**
-- **Django** (actively specializing)
-- **Spring Boot** (hands-on)
-- **JWT Authentication**, REST APIs
-- **Redis** (cache – actively exploring)
+⚙️ **Backend & Systems**  
+Node.js • Express • Django • Spring Boot  
+JWT Auth • REST APIs • Redis  
 
-### Frontend
-- **React**, **Next.js**
-- **Redux Toolkit**
-- **Tailwind CSS**
+🎨 **Frontend**  
+React • Next.js • Redux • Tailwind  
 
-### Databases
-- **MongoDB**
-- **MySQL**
-- **IndexedDB**
-- **PostgreSQL**
+🗄 **Databases**  
+MongoDB • MySQL • PostgreSQL • IndexedDB  
 
-### Systems & Research
-- Cache design, **GMMU**, **TLB**
-- **NVM-LLC**, **ChampSim**
-- Performance & fairness analysis
+🧪 **Systems & Research**  
+NVM Cache • TLB • GMMU • ChampSim • MGPUSim  
 
-### Tools & Platforms
-- **Git**, **Linux**
-- **Postman**
-- **Swagger (API docs)**
-- **Bitbucket**
-- **Jira**
-- **Docker** (basic)
+🧰 **Tools**  
+Git • Linux • Docker • Postman • Swagger • Jira • Bitbucket  
 
 ---
 
-## 🧪 Experience
+## 🚀 Experience
 
-### Software Engineer Intern — **Wakefit**
-*Current*
-- Working on **production-level features**
-- Building frontend using **React & Next.js**
-- Backend development with **Python & Django**
-- Database management using **PostgreSQL**
-- Collaborating in agile setup using **Jira & Bitbucket**
-
----
-
-### Full-Stack Intern — **TIH IIT Bhilai**
-- Designed and implemented **JWT-based authentication flows**
-- Built modular backend services
-- Developed responsive UI using **React + Tailwind**
-- Worked on live internal platforms used by stakeholders
+### 💼 Software Engineer Intern — Wakefit *(Current)*
+- Building **production-level features** end-to-end  
+- Frontend with **React & Next.js**  
+- Backend with **Node.js**, **Python (Django)**   
+- Working with **MongoDB**, **PostgreSQL in live systems**  
+- Collaborating in **agile teams (Jira + Bitbucket)**  
 
 ---
 
-### Research Intern — **IIT Madras**
-- Assisted in architectural research workflows
-- Studied memory-system level optimizations
-- Contributed to performance evaluation pipelines
+### 🔧 Full-Stack Intern — TIH IIT Bhilai
+- Designed **secure JWT authentication systems**  
+- Built scalable backend services  
+- Developed UI with **React + Tailwind**  
+- Worked on real internal platforms  
 
 ---
 
-### Computer Architecture Research Intern — **IIT Hyderabad**
-- Worked on **GPU memory systems** using **MGPUSim**
-- Implemented **Cuckoo Filter-based GMMU bypass**
-- Conducted energy & performance analysis using **CACTI**
-- Evaluated cache and TLB-level design trade-offs
+### 🧪 Research Intern — IIT Hyderabad
+- Contributed to **architecture-level research workflows**  
+- Focused on **memory system optimizations**
+- Worked on Research Paper  **Fair partition of R / W Queue in NVM based LLC**
 
 ---
 
-## 🚀 Selected Projects
+### ⚙️ Research Intern — IIT Madras
+- Worked on **GPU memory systems (MGPUSim)**  
+- Implemented **Cuckoo Filter-based GMMU bypass**  
+- Performed **performance & energy analysis (CACTI)**  
+- Explored cache & TLB trade-offs  
 
+---
 
+## 🚀 Projects
 
 ### 🧑‍💼 TalentFlow
-Mini hiring platform with job posting, drag-drop workflows & assessments  
-**Stack:** React, MSW, IndexedDB  
-🔗 **Live:** http://talentflow-seven.vercel.app
+Mini hiring platform with drag-drop workflows & assessments  
+**Stack:** React, IndexedDB, MSW  
+🔗 http://talentflow-seven.vercel.app  
 
 ---
 
 ### 🔍 JobSearch Portal
-Role-based job portal with resume upload & filtering  
-**Stack:** React, Node.js, Express, MongoDB  
-🔗 **Live:** https://jobportal-yt-main-3.onrender.com/
-
----
-### 🌐 Portfolio Website
-Personal portfolio showcasing projects, experience, and skills  
-🔗 **Live:** [https://abdul8081.github.io/](https://portfolio-two-lilac-s0pxup697i.vercel.app/)
+Role-based job platform with filtering & resume upload  
+**Stack:** MERN  
+🔗 https://jobportal-yt-main-3.onrender.com/  
 
 ---
 
-### 🌦 Weather Detection App
-Location-based weather lookup  
-🔗 https://abdul8081.github.io/weatherDetection-App/
+### 🌐 Portfolio
+Showcasing my work, projects & journey  
+🔗 https://portfolio-two-lilac-s0pxup697i.vercel.app/  
 
 ---
 
+### 🌦 Weather App
+Simple location-based weather detection  
+🔗 https://abdul8081.github.io/weatherDetection-App/  
 
+---
 
-<!-- <p align="center">
-thi will come in ### Github Directory, make suer to update this
-  <img src="https://raw.githubusercontent.com/Abdul8081/Abdul8081/output/metrics.svg" width="100%" />
-</p> -->
+## 📊 GitHub Activity
 
+*(Because code speaks louder than words)*
 
 ---
 
@@ -151,10 +144,14 @@ thi will come in ### Github Directory, make suer to update this
 ---
 
 ## 📬 Open to Opportunities
-- Frontend / Full-Stack Roles
-- SDE Positions
-- Systems & Performance Research
 
-📧 **amuid677@gmail.com**
+- 🚀 SDE / Backend / Full-Stack Roles  
+- 🧠 Systems & Performance Research  
+- ⚡ High-impact engineering teams  
+
+📧 **amuid677@gmail.com**  
 📧 **bt22cs010@nitmz.ac.in**
 
+---
+
+⭐ *Let’s build something that doesn’t crash on demo day (or at least crashes elegantly).* 😄
