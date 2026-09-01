@@ -8,19 +8,19 @@ Building scalable systems • Breaking things (intentionally) • Fixing them (p
 
 ## ⚡ Quick Intro
 
-- 👀 I enjoy debugging that *one invisible bug ruining everything*
-- 💻 Currently building **production-grade systems at Wakefit**
-- 🧠 Deep into **systems research + software engineering**
-- 🌱 Exploring **high-performance architectures & distributed systems**
-- 🤝 Open to collaborations in **Systems, Frontend, or anything challenging**
-- 📫 Reach me before the next bug reaches me
+- 👀 I enjoy solving **complex engineering problems** and debugging challenging systems
+- 💻 Building and exploring **Full Stack applications** across frontend and backend
+- 🤖 Currently focused on **AI Engineering, LLMs, RAG, AI Agents, and chatbots**
+- ☁️ Exploring **Cloud, DevOps, Docker, Kubernetes, and scalable system architectures**
+- 🤝 Open to collaborations in **Full Stack, AI Engineering, Systems, and challenging projects**
+- 📫 Always interested in **building, learning, and solving the next hard problem**
 
 ---
 
 ## 🌐 Connect With Me
 
 <p align="center">
-  <a href="mailto:bt22cs010@nitmz.ac.in">
+  <a href="mailto:amuid677@gmail.com">
     <img src="https://img.shields.io/badge/Email-Contact-red?style=for-the-badge&logo=gmail"/>
   </a>
   <a href="https://www.linkedin.com/in/abdul-muid-00973b264/">
@@ -35,44 +35,59 @@ Building scalable systems • Breaking things (intentionally) • Fixing them (p
 
 ## 🧠 About Me
 
-🎓 Final-year **Computer Science student @ NIT Mizoram**  
-💻 Focused on **Software Engineering + Systems Engineering**  
-🔬 Researching **cache systems, GPU memory & performance optimization**  
-🚀 I like building things that are **fast, scalable, and actually useful**
+🎓 **Computer Science & Engineering graduate @ NIT Mizoram** — CGPA **8.7/10**  
+💻 Focused on **Full Stack Software Engineering** and building scalable applications  
+🤖 Strong focus on **AI Engineering, LLMs, RAG, AI Agents, and intelligent chatbots**  
+☁️ Interested in **Cloud, DevOps, Distributed Systems, and scalable backend architecture**  
+🚀 I enjoy building **production-ready systems** that are reliable, scalable, and useful
 
 ---
 
 ## 🛠 Tech Stack
 
 💻 **Languages**  
-C++ • Java • Python • JavaScript  
+C++ • Java • Python • JavaScript • TypeScript  
 
 ⚙️ **Backend & Systems**  
-Node.js • Express • Django • Spring Boot  
-JWT Auth • REST APIs • Redis  
+Node.js • Express • Django • Spring Boot • REST APIs • JWT • Redis • Kafka  
 
 🎨 **Frontend**  
-React • Next.js • Redux • Tailwind  
+React • Next.js • Redux • Tailwind CSS  
 
-🗄 **Databases**  
-MongoDB • MySQL • PostgreSQL • IndexedDB  
+🗄 **Databases & Storage**  
+MongoDB • MySQL • PostgreSQL • IndexedDB • Amazon S3  
+
+☁️ **Cloud & DevOps**  
+AWS EC2 • AWS Lambda • AWS S3 • Docker • Kubernetes • CI/CD • GitHub Actions • Linux  
+
+🤖 **AI Engineering**  
+LLMs • RAG • AI Agents • AI Chatbots • Prompt Engineering • Embeddings • Vector Databases • LangChain  
+
+🔐 **AI & Application Security**  
+AI Security Basics • JWT Authentication • API Security • Input Validation • Secure LLM Applications  
 
 🧪 **Systems & Research**  
 NVM Cache • TLB • GMMU • ChampSim • MGPUSim  
 
-🧰 **Tools**  
-Git • Linux • Docker • Postman • Swagger • Jira • Bitbucket  
+🧰 **Tools & Development**  
+Git • Postman • Swagger • Jira • Bitbucket • VS Code 
 
 ---
 
 ## 🚀 Experience
 
-### 💼 Software Engineer Intern — Wakefit *(Current)*
-- Building **production-level features** end-to-end  
-- Frontend with **React & Next.js**  
-- Backend with **Node.js**, **Python (Django)**   
-- Working with **MongoDB**, **PostgreSQL in live systems**  
-- Collaborating in **agile teams (Jira + Bitbucket)**  
+### 💼 Graduate Engineering Trainee — Larsen & Toubro
+- Exploring **full-stack systems**, understanding frontend, backend, and service architecture
+- Exploring frontend development with **React, JavaScript, and modern UI architectures**
+- Exploring backend systems, **REST APIs, databases, and distributed application workflows**
+- Exploring **RAG-based AI systems** and the architecture behind L&T's **Heera Plus** custom AI chatbot
+
+### 💼 Software Engineer Intern — Wakefit
+- Built **production-level features** across frontend and backend systems
+- Developed frontend features using **React, Next.js, and TypeScript**
+- Developed backend APIs using **Node.js and Python (Django)**
+- Worked with **MongoDB and PostgreSQL** in production environments
+- Collaborated with **Agile teams** using Jira, Bitbucket, and Git
 
 ---
 
